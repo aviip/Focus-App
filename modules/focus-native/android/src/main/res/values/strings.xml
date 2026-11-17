@@ -1,0 +1,3 @@
+<resources>
+  <string name="focus_a11y_description">Observes which app is in the foreground so Focus can enforce the time limits you set. It does not read screen content and sends no data anywhere.</string>
+</resources>

@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Focus",
+    "slug": "focus",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "platforms": [
+      "android"
+    ],
+    "android": {
+      "package": "com.focus.app"
+    },
+    "plugins": [
+      "expo-dev-client",
+      "expo-asset"
+    ]
+  }
+}
